@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'api_key' => env('DAILY_API_KEY', '803653e752673a8a482db0dc6b688e7ae0b6837cf073a5e80392f4824339fc5e'),
+    'api_key' => env('DAILY_API_KEY'),
 
     /*
      * The base url of the Daily API.
